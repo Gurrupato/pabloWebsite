@@ -1,0 +1,21 @@
+body {
+  --color-paleta1: #f4f3e6;
+  --color-paleta2: #4f6457;
+  --color-paleta3: #75b1a9;
+  --width-anchoBase: 80%;
+  font-family: "Glacial Indifference";
+}
+
+.appContainer {
+  width: 100vw;
+  height: 100vh;
+  background-color: gray;
+  display: flex;
+  flex-direction: column;
+}
+
+.containerInterior {
+  width: 100%;
+  height: calc(100% - 150px);
+  background-color: var(--color-paleta1);
+}

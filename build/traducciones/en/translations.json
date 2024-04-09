@@ -1,0 +1,353 @@
+{
+  "navigation": {
+    "inicio": "HOME",
+    "sobreMi": "ABOUT ME",
+    "experiencias": "EXPERIENCE",
+    "formacion": "STUDIES",
+    "contacto": "CONTACT",
+    "voluntariado": "VOLUNTEER",
+    "contactanos": "Contact us:",
+    "psicologo": "Psichologist"
+  },
+  "sobreMi": {
+    "titulo": "PSYCHOLOGIST",
+    "contenido": [
+      "I am a psychologist with a passion for social transformation through employability and promoting a work culture based on empathy and collaboration. My journey into psychology began as a salaried worker, where I experienced the importance of human connection in work environments",
+      "My commitment to employability goes beyond job search; it is a personal mission to inspire a less individualistic society. I believe in selfless help and giving back to society. My experience as a volunteer at the Dravet Syndrome Association has taught me the power of togetherness and gJanuarysity, lessons that I apply in my approach to psychology and human resources.",
+      "My goal is to create a work environment where empathy is the foundation and where each individual success contributes to the collective well-being. In my quest for my first professional experience, I am eager to apply my skills and values to facilitate employability and foster a chain of kindness and goodness in society. Together, we can make work a positive force that transforms lives and communities!"
+    ]
+  },
+  "experiencia": [
+    {
+      "titulo": "Trainee Employment Advisor",
+      "subtitulo": "Tomares Town Council : November 2023 - February 2024",
+      "contenido": [
+        "- Creation of training itineraries",
+        "- Labour counselling",
+        "- Creation of the 'Inserta Tomares' programme",
+        "- Imparting of workshops"
+      ]
+    },
+    {
+      "titulo": "Administrative - Back office",
+      "subtitulo": "Teleperformance | April 2015 - June 2022",
+      "contenido": [
+        "- Back office management",
+        "- Conflict resolution",
+        "- Welcoming new recruits",
+        "- Providing training",
+        "- Customer service"
+      ]
+    },
+    {
+      "titulo": "Trainer",
+      "subtitulo": "Marketcurso | February 2014 - April 2017",
+      "contenido": [
+        "- Writing didactic units",
+        "- Motivation of pupils",
+        "- Associated administrative tasks",
+        "- Resolution of technical incidences",
+        "- Tutorials"
+      ]
+    }
+  ],
+  "voluntariado": [
+    {
+      "titulo": "Partner",
+      "subtitulo": "Dravet Syndrome Foundation | February 2018 - Today",
+      "contenido": [
+        "- Attendance at congresses and events",
+        "- Outreach work",
+        "- Fund-raising",
+        "- Support in the organisation of events"
+      ]
+    },
+    {
+      "titulo": "Tourist product presenter",
+      "subtitulo": "Seville Tourism Consortium | February 2013 - February 2013",
+      "contenido": [
+        "- Mediator",
+        "- Presentation",
+        "- Attention to the public",
+        "- Organisational support"
+      ]
+    },
+    {
+      "titulo": "Founder and Secretary",
+      "subtitulo": "Guardianes Sevilla Cultural Association | January 2012 - December 2017",
+      "contenido": [
+        "Document management",
+        "- Creation and organisation of events",
+        "- Management of social networks",
+        "- Management tasks"
+      ]
+    }
+  ],
+  "formacion": [
+    {
+      "titulo": "Grado de Psicología",
+      "fecha": "November 2018 - February 2024",
+      "hours": "",
+      "ubicacion": "Universitat Oberta de Catalunya. ",
+      "contenido": [
+        "Mención en psicología de la Intervención Social ",
+        "Mención en psicología de la Salud ",
+        "Mención en psicología del Trabajo y las Organizaciones"
+      ]
+    },
+    {
+      "titulo": "Certificado medio de acreditación de competencias en Tecnologías de la información y la comunicación (ACTIC).",
+      "fecha": "12 de February de 2020",
+      "hours": "150 hours",
+      "ubicacion": "Universitat Oberta de Catalunya.",
+      "contenido": [""]
+    }
+  ],
+  "formacionNoReglada": [
+    {
+      "titulo": "Social",
+      "contenido": [
+        {
+          "subtitulo": "Guidelines for parental mediation in the use of technology.",
+
+          "fecha": "February 2014",
+          "duracion": "40 hours",
+          "ubicacion": "Centre for the development of digital competences of Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Digital identity management on the internet.",
+
+          "fecha": "January 2024",
+          "duracion": "50 hours",
+          "ubicacion": "Centre for the development of digital competences of Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Critical thinking in a digital world.",
+          "fecha": "January 2024",
+          "duracion": "50 hours",
+          "ubicacion": "Centre for the development of digital competences of Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Social skills: communication, emotional intelligence and teamwork.",
+
+          "fecha": " March 2023",
+          "duracion": "20 hours",
+          "ubicacion": "Tomares Town Council"
+        },
+        {
+          "subtitulo": "Coaching: people develpment. ",
+
+          "fecha": "January 2023",
+          "duracion": "24 hours",
+          "ubicacion": "Tomares Town Council  "
+        },
+        {
+          "subtitulo": "Coaching skills. ",
+
+          "fecha": "March 2014",
+          "duracion": "45 hours",
+          "ubicacion": "Educate training centres. "
+        }
+      ]
+    },
+    {
+      "titulo": "Equality",
+      "contenido": [
+        {
+          "subtitulo": "Gender perspective. Equality and personal development. ",
+          "fecha": "March 2024",
+          "duracion": "21 hours",
+          "ubicacion": "Ilunion human capital"
+        },
+        {
+          "subtitulo": "Gender-based violence",
+
+          "fecha": "February 2024",
+          "duracion": "50 hours",
+          "ubicacion": "Colón Academy"
+        },
+        {
+          "subtitulo": " Job placement, environmental and gender equality awareness. ",
+          "fecha": "June 2023 ",
+          "duracion": "20 hours",
+          "ubicacion": "Tomares Town Council  "
+        }
+      ]
+    },
+    {
+      "titulo": "Employability",
+      "contenido": [
+        {
+          "subtitulo": "Improving your employability through digital skills.",
+          "fecha": "February 2024",
+          "duracion": " 40 hours",
+          "ubicacion": "Centre for the development of digital competences of Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Effective job search techniques.",
+          "fecha": "February 2024",
+          "duracion": "80 hours ",
+          "ubicacion": "Centre for the development of digital competences of Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Job search techniques.",
+          "fecha": "January 2024",
+          "duracion": "20 hours",
+          "ubicacion": "Colon Formación  "
+        }
+      ]
+    },
+    {
+      "titulo": "Human Resources",
+      "contenido": [
+        {
+          "subtitulo": "Expert course in human resources management + Nominaplus",
+          "fecha": " October 2022",
+          "duracion": "160 hours",
+          "ubicacion": "InnFormacion"
+        },
+        {
+          "subtitulo": "Human Resources Management.",
+          "fecha": " October 2022",
+          "duracion": "60 hours",
+          "ubicacion": "Tomares Town Council"
+        },
+        {
+          "subtitulo": "HR: Stress management and conflict resolution in service delivery.",
+          "fecha": " January 2022",
+          "duracion": "10 hours",
+          "ubicacion": "Estabús"
+        },
+        {
+          "subtitulo": "Practical guide to related party transactions",
+          "fecha": "March 2014",
+          "duracion": "65 hours",
+          "ubicacion": "Educate training centres. "
+        },
+        {
+          "subtitulo": "Habilidades directivas y negociación",
+          "fecha": "March 2014",
+          "duracion": "68 hours",
+          "ubicacion": "Educate training centres. "
+        },
+        {
+          "subtitulo": "Management secretarial techniques",
+          "fecha": " October 2014",
+          "duracion": "85 hours",
+          "ubicacion": "Educate training centres. "
+        },
+        {
+          "subtitulo": "Personnel management",
+          "fecha": "March 2014",
+          "duracion": "85 hours",
+          "ubicacion": "Educate training centres. "
+        }
+      ]
+    },
+    {
+      "titulo": "Teaching",
+      "contenido": [
+        {
+          "subtitulo": "Teletraining for teachers",
+          "fecha": "February 2024",
+          "duracion": "50 hours",
+          "ubicacion": "Vértice formacion y empleo"
+        },
+        {
+          "subtitulo": "Digital transformation in the education system.",
+          "fecha": "February 2024",
+          "duracion": "80 hours",
+          "ubicacion": "Centre for the development of digital competences of Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Dynamisation of digital inclusion points and other ICT classrooms.",
+          "fecha": " January 2024",
+          "duracion": "65 hours",
+          "ubicacion": "Centre for the development of digital competences of Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Trainer of trainers",
+          "fecha": "June 2013 ",
+          "duracion": "60 hours",
+          "ubicacion": "System Training Group"
+        }
+      ]
+    },
+    {
+      "titulo": "Health",
+      "contenido": [
+        {
+          "subtitulo": "Update on the diagnosis, treatment and management of Dravet syndrome. ",
+          "fecha": "June 2023",
+          "duracion": "50 hours",
+          "ubicacion": "Universidad del País Vasco / Euskal Herriko."
+        },
+        {
+          "subtitulo": "Effects and consequences of drug and alcohol use on driving.",
+          "fecha": "January 2014",
+          "duracion": "20 hours",
+          "ubicacion": "Colón formación."
+        },
+        {
+          "subtitulo": "Awareness-raising and prevention of sexual violence in the field of addictions.  ",
+          "fecha": "October 2024",
+          "duracion": "25 hours",
+          "ubicacion": "Asociación Limam."
+        }
+      ]
+    },
+    {
+      "titulo": "Transversals",
+      "contenido": [
+        {
+          "subtitulo": "Methodologies for ICT project management.",
+          "fecha": "February 2024",
+          "duracion": "60 hours",
+          "ubicacion": "Centre for the development of digital competences of Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Personal productivity and time management in the workplace.",
+          "fecha": " February 2024",
+          "duracion": "60 hours",
+          "ubicacion": "Centre for the development of digital competences of Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "How to save energy at the workplace. ",
+          "fecha": "Julio 2023",
+          "duracion": "2 hours",
+          "ubicacion": "Institute for Energy Diversification and Saving, IDAE. "
+        },
+        {
+          "subtitulo": "Project management with Agile methodology.",
+          "fecha": "October 2022",
+          "duracion": "10 hours",
+          "ubicacion": "Confebus"
+        },
+        {
+          "subtitulo": "Organisation of telework. ",
+          "fecha": "October 2022",
+          "duracion": "5 hours",
+          "ubicacion": "Confebus"
+        },
+        {
+          "subtitulo": "Prevention of occupational risks (Basic)",
+          "fecha": "Diciembre 2022",
+          "duracion": "60 hours",
+          "ubicacion": "Tomares Town Council"
+        },
+        {
+          "subtitulo": "Quality of service and customer care.",
+          "fecha": "March 2014",
+          "duracion": "65 hours",
+          "ubicacion": "Educate training centre. "
+        },
+        {
+          "subtitulo": "Effective time management. ",
+          "fecha": "March 2014",
+          "duracion": "65 hours",
+          "ubicacion": "Educate training centre. "
+        }
+      ]
+    }
+  ]
+}

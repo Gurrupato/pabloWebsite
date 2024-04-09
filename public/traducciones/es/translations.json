@@ -1,0 +1,353 @@
+{
+  "navigation": {
+    "inicio": "INICIO",
+    "sobreMi": "SOBRE MI",
+    "experiencias": "EXPERIENCIAS",
+    "formacion": "FORMACION",
+    "contacto": "CONTACTO",
+    "voluntariado": "VOLUNTARIADO",
+    "contactanos": "Contactanos:",
+    "psicologo": "Psicologo"
+  },
+  "sobreMi": {
+    "titulo": "PSICOLOGO",
+    "contenido": [
+      "Soy psicólogo con pasión por la transformación social a través de la inserción laboral y la promoción de una cultura laboral basada en la empatía y la colaboración. Mi viaje hacia la psicología comenzó como trabajador asalariado, donde experimenté la importancia de la conexión humana en entornos laborales.",
+      "Mi compromiso con la inserción laboral va más allá de la búsqueda de empleo; es una misión personal de inspirar una sociedad menos individualista. Creo en la ayuda desinteresada y en la devolución a la sociedad. Mi experiencia como voluntario en la Asociación del Síndrome de Dravet me ha enseñado la fuerza de la unión y la generosidad, lecciones que aplico en mi enfoque hacia la psicología y los recursos humanos.",
+      "Mi objetivo es crear un entorno laboral donde la empatía sea la base y donde cada éxito individual contribuya al bienestar colectivo. En mi búsqueda de la primera experiencia profesional, estoy ansioso por aplicar mis habilidades y valores para facilitar la inserción laboral y fomentar una cadena de favores y bondad en la sociedad. ¡Juntos, podemos hacer del trabajo una fuerza positiva que transforma vidas y comunidades!"
+    ]
+  },
+  "experiencia": [
+    {
+      "titulo": "Asesor laboral en practicas",
+      "subtitulo": "Ayuntamiento de Tomares | Noviembre 2023 - Febrero 2024",
+      "contenido": [
+        "- Creacion de itinerarios formativos.",
+        "- Asesoramiento laboral.",
+        "- Creacion del programa 'Inserta Tomares'.",
+        "- Imparticion de Talleres."
+      ]
+    },
+    {
+      "titulo": "Administrativo - Back office",
+      "subtitulo": "Teleperformance | Abril 2015 - Junio 2022",
+      "contenido": [
+        "- Gestión de Back office.",
+        "- Resolución de conflictos.",
+        "- Acogida de nuevas incorporaciones'.",
+        "- Impartir formación.",
+        "- Atención al cliente."
+      ]
+    },
+    {
+      "titulo": "Formador",
+      "subtitulo": "Marketcurso | Febrero 2014 - Abril 2017",
+      "contenido": [
+        "- Redacción de unidades didácticas.",
+        "- Motivación del alumnado.",
+        "- Labores administrativas asociadas.",
+        "- Resolución de incidencias técnicas.",
+        "- Tutorias."
+      ]
+    }
+  ],
+  "voluntariado": [
+    {
+      "titulo": "Colaborador",
+      "subtitulo": "Fundación Síndrome de Dravet | Febrero 2018 - Actualidad",
+      "contenido": [
+        "- Asistencia a congresos y eventos.",
+        "- Labores divulgativas.",
+        "- Recaudación de fondos.",
+        "- Apoyo en organización de eventos."
+      ]
+    },
+    {
+      "titulo": "Presentador producto turístico",
+      "subtitulo": "Consorcio de turismo de Sevilla | Febrero 2013 - Febrero 2013",
+      "contenido": [
+        "- Mediador.",
+        "- Presentación.",
+        "- Atención al público.",
+        "- Apoyo a la organización."
+      ]
+    },
+    {
+      "titulo": "Fundador y secretario",
+      "subtitulo": "Asociación cultural Guardianes Sevilla | Enero 2012 - Diciembre 2017",
+      "contenido": [
+        "- Gestión documental",
+        "- Creación y organización de eventos",
+        "- Manejo de redes sociales",
+        "- Labores de dirección."
+      ]
+    }
+  ],
+  "formacion": [
+    {
+      "titulo": "Grado de Psicología",
+      "fecha": "Noviembre 2018 - Febrero 2024",
+      "horas": "",
+      "ubicacion": "Universitat Oberta de Catalunya. ",
+      "contenido": [
+        "Mención en psicología de la Intervención Social ",
+        "Mención en psicología de la Salud ",
+        "Mención en psicología del Trabajo y las Organizaciones"
+      ]
+    },
+    {
+      "titulo": "Certificado medio de acreditación de competencias en Tecnologías de la información y la comunicación (ACTIC).",
+      "fecha": "12 de febrero de 2020",
+      "horas": "150 horas",
+      "ubicacion": "Universitat Oberta de Catalunya.",
+      "contenido": [""]
+    }
+  ],
+  "formacionNoReglada": [
+    {
+      "titulo": "Social",
+      "contenido": [
+        {
+          "subtitulo": "Pautas de mediación parental en el uso de la tecnología.",
+
+          "fecha": "Febrero 2014",
+          "duracion": "40 horas",
+          "ubicacion": "Centro de desarrollo de competencias digitales de Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Gestión de la identidad digital en internet.",
+
+          "fecha": "Enero 2024",
+          "duracion": "50 horas",
+          "ubicacion": "Centro de desarrollo de competencias digitales de     Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Pensamiento crítico en un mundo digital.",
+          "fecha": "Enero 2024",
+          "duracion": "50 horas",
+          "ubicacion": "Centro de desarrollo de competencias digitales de   Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Habilidades sociales: Comunicación, inteligencia emocional y trabajo en equipo.",
+
+          "fecha": " Marzo 2023",
+          "duracion": "20 horas",
+          "ubicacion": "Ayuntamiento de Tomares."
+        },
+        {
+          "subtitulo": "Coaching: desarrollo de personas. ",
+
+          "fecha": "Enero 2023",
+          "duracion": "24 horas",
+          "ubicacion": "Ayuntamiento de Tomares.  "
+        },
+        {
+          "subtitulo": "Habilidades de coaching. ",
+
+          "fecha": "Marzo 2014",
+          "duracion": "45 horas",
+          "ubicacion": "Educate centros de formación. "
+        }
+      ]
+    },
+    {
+      "titulo": "Igualdad",
+      "contenido": [
+        {
+          "subtitulo": "Violencia de Genero",
+
+          "fecha": "Febrero 2024",
+          "duracion": "50 horas",
+          "ubicacion": "Academia Colón"
+        },
+        {
+          "subtitulo": "Inserción laboral, sensibilización medioambiental y  en igualdad de género.  ",
+          "fecha": "Junio 2023 ",
+          "duracion": "20 horas",
+          "ubicacion": "Ayuntamiento de Tomares.  "
+        },
+        {
+          "subtitulo": "Perspectiva de género. Igualdad y desarrollo personal. ",
+          "fecha": "Marzo 2024",
+          "duracion": "21 horas",
+          "ubicacion": "Ilunion capital humano"
+        }
+      ]
+    },
+    {
+      "titulo": "Empleabilidad",
+      "contenido": [
+        {
+          "subtitulo": "Mejorando tu empleabilidad a través de las  competencias digitales.",
+          "fecha": "Febrero 2024",
+          "duracion": " 40 horas",
+          "ubicacion": "Centro de desarrollo de competencias digitales de     Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Técnicas eficaces en la búsqueda de empleo. ",
+          "fecha": "Febrero 2024",
+          "duracion": "80 horas ",
+          "ubicacion": "Centro de desarrollo de competencias digitales de     Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Técnicas de búsqueda de empleo.",
+          "fecha": "Enero 2024",
+          "duracion": "20 horas",
+          "ubicacion": "Colon Formación  "
+        }
+      ]
+    },
+    {
+      "titulo": "Recursos Humanos",
+      "contenido": [
+        {
+          "subtitulo": "Curso experto en gestión de recursos humanos + Nominaplus",
+          "fecha": " Octubre 2022",
+          "duracion": "160 horas",
+          "ubicacion": "InnFormacion"
+        },
+        {
+          "subtitulo": "Gestión de Recursos Humanos. ",
+          "fecha": " Octubre 2022",
+          "duracion": "60 horas",
+          "ubicacion": "Ayuntamiento de Tomares."
+        },
+        {
+          "subtitulo": "RRHH: Control del estrés y resolución de conflictos en la prestación del servicio.",
+          "fecha": " Enero 2022",
+          "duracion": "10 horas",
+          "ubicacion": "Estabús"
+        },
+        {
+          "subtitulo": "Guía práctica de operaciones vinculadas",
+          "fecha": "Marzo 2014",
+          "duracion": "65 horas",
+          "ubicacion": "Educate centros de formación. "
+        },
+        {
+          "subtitulo": "Habilidades directivas y negociación",
+          "fecha": "Marzo 2014",
+          "duracion": "68 horas",
+          "ubicacion": "Educate centros de formación. "
+        },
+        {
+          "subtitulo": "Técnicas de secretariado de dirección",
+          "fecha": " Octubre 2014",
+          "duracion": "85 horas",
+          "ubicacion": "Educate centros de formación. "
+        },
+        {
+          "subtitulo": "Gestion de personal",
+          "fecha": "Marzo 2014",
+          "duracion": "85 horas",
+          "ubicacion": "Educate centros de formación. "
+        }
+      ]
+    },
+    {
+      "titulo": "Docencia",
+      "contenido": [
+        {
+          "subtitulo": "Teleformacion para docentes",
+          "fecha": "Febrero 2024",
+          "duracion": "50 horas",
+          "ubicacion": "Vértice formacion y empleo"
+        },
+        {
+          "subtitulo": "Transformación digital en el sistema educativo.",
+          "fecha": "Febrero 2024",
+          "duracion": "80 horas",
+          "ubicacion": "Centro de desarrollo de competencias digitales de     Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Dinamización de puntos de inclusión digital y otras aulas TIC.",
+          "fecha": " Enero 2024",
+          "duracion": "65 horas",
+          "ubicacion": "Centro de desarrollo de competencias digitales de     Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Formador de formadores",
+          "fecha": "Junio 2013 ",
+          "duracion": "60 horas",
+          "ubicacion": "Grupo System formacion"
+        }
+      ]
+    },
+    {
+      "titulo": "Salud",
+      "contenido": [
+        {
+          "subtitulo": "Actualización en el diagnóstico, tratamiento y manejo del síndrome de Dravet.  ",
+          "fecha": "Junio 2023",
+          "duracion": "50 horas",
+          "ubicacion": "Universidad del País Vasco / Euskal Herriko."
+        },
+        {
+          "subtitulo": "Efectos y consecuencias del consumo de drogas y  alcohol en la conducción.",
+          "fecha": "Enero 2014",
+          "duracion": "20 horas",
+          "ubicacion": "Colón formación."
+        },
+        {
+          "subtitulo": "Sensibilización y prevención de la violencia sexual en el ámbito de las adicciones.  ",
+          "fecha": "Octubre 2024",
+          "duracion": "25 horas",
+          "ubicacion": "Asociación Limam."
+        }
+      ]
+    },
+    {
+      "titulo": "Trasversales",
+      "contenido": [
+        {
+          "subtitulo": "Metodologías para la gestión de proyectos TIC.",
+          "fecha": "Febrero 2024",
+          "duracion": "60 horas",
+          "ubicacion": "Centro de desarrollo de competencias digitales de     Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Productividad personal y gestión del tiempo en el puesto de trabajo.",
+          "fecha": " Febrero 2024",
+          "duracion": "60 horas",
+          "ubicacion": "Centro de desarrollo de competencias digitales de     Castilla - La Mancha."
+        },
+        {
+          "subtitulo": "Cómo ahorrar energía en el puesto de trabajo. ",
+          "fecha": "Julio 2023",
+          "duracion": "2 horas",
+          "ubicacion": "Instituto para la diversificación y ahorro de la energía, IDAE. "
+        },
+        {
+          "subtitulo": "Gestión de proyectos con metodología Agile.",
+          "fecha": "Octubre 2022",
+          "duracion": "10 horas",
+          "ubicacion": "Confebus"
+        },
+        {
+          "subtitulo": "Organización del teletrabajo. ",
+          "fecha": "Octubre 2022",
+          "duracion": "5 horas",
+          "ubicacion": "Confebus"
+        },
+        {
+          "subtitulo": "Prevención de riesgos laborales (Básico)",
+          "fecha": "Diciembre 2022",
+          "duracion": "60 horas",
+          "ubicacion": "Ayuntamiento de Tomares."
+        },
+        {
+          "subtitulo": "Calidad en el servicio y atención al cliente.",
+          "fecha": "Marzo 2014",
+          "duracion": "65 horas",
+          "ubicacion": "Educate centro de formación. "
+        },
+        {
+          "subtitulo": "Gestión eficaz del tiempo. ",
+          "fecha": "Marzo 2014",
+          "duracion": "65 horas",
+          "ubicacion": "Educate centro de formación. "
+        }
+      ]
+    }
+  ]
+}

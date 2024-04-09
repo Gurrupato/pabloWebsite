@@ -1,0 +1,153 @@
+.container {
+  background-color: var(--color-paleta1);
+  width: 100%;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.containerInterno {
+  border-bottom: 2px solid var(--color-paleta2);
+  width: var(--width-anchoBase);
+  height: 100%;
+  display: flex;
+  font-size: 25px;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.logoContainer {
+  width: 15%;
+  height: 100%;
+  display: flex;
+}
+
+.logo {
+  height: 115%;
+}
+.containerLinks {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: var(--color-paleta2);
+  text-decoration: none;
+}
+
+.links {
+  color: var(--color-paleta2);
+}
+.linksSelected {
+  color: var(--color-paleta2);
+  font-weight: bold;
+  text-shadow: 1px 2px 1px var(--color-paleta3);
+}
+.links:hover {
+  font-weight: bold;
+  color: var(--color-paleta2);
+}
+.linksSelected:hover {
+  color: var(--color-paleta2);
+  font-weight: bold;
+}
+
+.links:active {
+  color: var(--color-paleta2);
+}
+.linksSelected:active {
+  color: var(--color-paleta2);
+}
+
+.lenguajeContainer {
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  right: 10px;
+  top: 10px;
+}
+.englishButton {
+  width: 40px;
+  height: 40px;
+  font-size: small;
+  background-image: url("./reino-unido.png");
+  background-size: cover;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  opacity: 50%;
+}
+.englishButtonSelected {
+  width: 40px;
+  height: 40px;
+  font-size: small;
+  background-image: url("./reino-unido.png");
+  background-size: cover;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.spanishButton {
+  width: 40px;
+  height: 40px;
+  font-size: small;
+  background-image: url("./espana.png");
+  background-size: cover;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  opacity: 50%;
+}
+
+.spanishButtonSelected {
+  width: 40px;
+  height: 40px;
+  font-size: small;
+  background-image: url("./espana.png");
+  background-size: cover;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.containerInternoMovil {
+  display: none;
+}
+
+@media (max-width: 1700px) {
+  .containerInterno {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .containerInterno {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 900px) {
+  .containerInterno {
+    display: none;
+  }
+  .containerInternoMovil {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+  }
+  .containerLinksMovil {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 25px;
+    left: 25px;
+  }
+  .hamburgerButton {
+    background-color: var(--color-paleta3);
+    color: var(--color-paleta1);
+  }
+}

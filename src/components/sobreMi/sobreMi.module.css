@@ -1,0 +1,86 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.containerInterno {
+  width: var(--width-anchoBase);
+  height: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.containerTexto {
+  width: 65%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  text-align: justify;
+}
+.containerTexto p {
+  margin-right: 20px;
+}
+.containerImagen {
+  width: 35%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  background-color: transparent;
+}
+
+.imagen {
+  max-height: 90%;
+  max-width: 90%;
+}
+
+.titulo {
+  width: 100%;
+  color: var(--color-paleta2);
+  font-size: larger;
+  font-weight: bold;
+}
+.nombre {
+  width: 100%;
+  color: var(--color-paleta2);
+  font-size: 36px;
+  font-weight: bold;
+}
+.contenido {
+  width: 100%;
+  overflow-y: scroll;
+  margin-bottom: 20px;
+}
+.contenido::-webkit-scrollbar {
+  width: 10px; /* Ancho de la barra de desplazamiento */
+}
+
+.contenido::-webkit-scrollbar-track {
+  background: transparent; /* Color de fondo del track */
+}
+
+.contenido::-webkit-scrollbar-thumb {
+  background: var(--color-paleta2); /* Color del thumb, verde claro */
+}
+
+.contenido::-webkit-scrollbar-thumb:hover {
+  background: #91c7a1; /* Color del thumb al pasar el mouse, un verde un poco más oscuro */
+}
+
+@media (max-width: 900px) {
+  .containerImagen {
+    display: none;
+  }
+  .containerTexto {
+    width: 95%;
+  }
+}

@@ -1,0 +1,91 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.contenido {
+  height: 100%;
+  width: var(--width-anchoBase);
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.titulo {
+  width: 100%;
+  height: 25%;
+  color: var(--color-paleta2);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nombre {
+  font-size: 60px;
+  margin: 0;
+  margin-top: 25px;
+  text-shadow: 2px 3px 2px var(--color-paleta3);
+}
+.titulacion {
+  font-size: 40px;
+  margin: 0;
+  text-shadow: 1px 2px 1px var(--color-paleta3);
+}
+
+.imagenContainer {
+  width: 100%;
+  height: 55%;
+  margin-top: 20px;
+  overflow-y: hidden;
+}
+
+.imagen {
+  width: 100%;
+}
+
+.contactContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  color: var(--color-paleta2);
+}
+
+.contactContainerPrimeraLinea {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  text-shadow: 0.5px 1px 0.5px var(--color-paleta3);
+}
+.contactContainerEnlaces {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.contactContainer a {
+  color: var(--color-paleta2);
+}
+
+.gmailIcon {
+  color: var(--color-paleta2);
+  border-color: var(--color-paleta2);
+  stroke: var(--color-paleta2);
+}
+
+.instagramIcon {
+  color: var(--color-paleta2);
+}
+
+.linkedinIcon {
+  color: var(--color-paleta2);
+}
